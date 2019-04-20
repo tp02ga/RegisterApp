@@ -1,4 +1,4 @@
-# RegisterApp
+# Simple Java Web Registration App
 
 This is a simple User registration app that was built in 5 minutes using Java + Spring technologies.
 
